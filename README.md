@@ -9,8 +9,6 @@
 
 ## 🌐 Live Preview
 
-**[https://GSURYASWARNITHA1.github.io](https://GSURYASWARNITHA1.github.io)**
-
 Deploy to GitHub Pages and share your link!
 
 ---
